@@ -69,7 +69,7 @@ To know more about Server API, go to:
 https://doc.smartflomeet.ttns.in/developer/video-api/server-api/
 
 
-## 5 Client API
+## 4 Client API
 
 Client End Point Application uses Web Toolkit EnxRtc.js to communicate with Servers to initiate and manage RTC Communications.
 
